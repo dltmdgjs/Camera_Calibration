@@ -132,8 +132,7 @@ def video_record():
 
 
 if __name__ == '__main__':
-
-    # video_record()
+    video_record()
 
     video_file = 'chessboard.mp4'
     board_pattern = (10, 7)
